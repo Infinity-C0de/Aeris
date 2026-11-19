@@ -1,0 +1,28 @@
+@import 'tailwindcss';
+
+@theme {
+    --font-body: 'Segoe UI', Arial, sans-serif;
+    --color-navy: #092d50;
+    --color-ocean: #087799;
+    --color-aqua: #00b7c7;
+    --color-mist: #f1f7f8;
+    --color-leaf: #16835c;
+}
+
+body {
+    margin: 0;
+}
+button,
+a,
+input,
+select {
+    -webkit-tap-highlight-color: transparent;
+}
+button:not(:disabled),
+select {
+    cursor: pointer;
+}
+:focus-visible {
+    outline: 3px solid #087799;
+    outline-offset: 4px;
+}

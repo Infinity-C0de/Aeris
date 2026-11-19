@@ -1,0 +1,112 @@
+[
+    {
+        "cidade": "São Paulo",
+        "pm25": 9.4,
+        "pm10": 9.4
+    },
+    {
+        "cidade": "Rio de Janeiro",
+        "pm25": 22.9,
+        "pm10": 23.9
+    },
+    {
+        "cidade": "Salvador",
+        "pm25": 5.3,
+        "pm10": 6.6
+    },
+    {
+        "cidade": "Fortaleza",
+        "pm25": 7.6,
+        "pm10": 13.2
+    },
+    {
+        "cidade": "Belo Horizonte",
+        "pm25": 12.5,
+        "pm10": 12.5
+    },
+    {
+        "cidade": "Brasília",
+        "pm25": 5.2,
+        "pm10": 5.3
+    },
+    {
+        "cidade": "Curitiba",
+        "pm25": 8.6,
+        "pm10": 8.8
+    },
+    {
+        "cidade": "Manaus",
+        "pm25": 20.4,
+        "pm10": 22.1
+    },
+    {
+        "cidade": "Recife",
+        "pm25": 8.6,
+        "pm10": 14.3
+    },
+    {
+        "cidade": "Belém",
+        "pm25": 4.7,
+        "pm10": 5.9
+    },
+    {
+        "cidade": "Porto Alegre",
+        "pm25": 7.6,
+        "pm10": 8.8
+    },
+    {
+        "cidade": "Goiânia",
+        "pm25": 5.3,
+        "pm10": 5.4
+    },
+    {
+        "cidade": "Guarulhos",
+        "pm25": 16.6,
+        "pm10": 16.6
+    },
+    {
+        "cidade": "Campinas",
+        "pm25": 30.5,
+        "pm10": 31.5
+    },
+    {
+        "cidade": "Nova Iguacu",
+        "pm25": 19.3,
+        "pm10": 20.8
+    },
+    {
+        "cidade": "Maceió",
+        "pm25": 9.7,
+        "pm10": 13.1
+    },
+    {
+        "cidade": "São Luis",
+        "pm25": 4.6,
+        "pm10": 7.4
+    },
+    {
+        "cidade": "Duque de Caxias",
+        "pm25": 22.9,
+        "pm10": 23.9
+    },
+    {
+        "cidade": "Natal",
+        "pm25": 9.0,
+        "pm10": 15.2
+    },
+    {
+        "cidade": "Teresina",
+        "pm25": 11.7,
+        "pm10": 12.5
+    },
+    {
+        "cidade": "Cerqueira Cesar - Avenida Paulista",
+        "pm25": 8,
+        "pm10": 20
+    },
+    {
+        "cidade": "Cubatão",
+        "pm25": 6,
+        "pm10": 46
+    }
+]

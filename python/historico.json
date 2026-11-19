@@ -1,0 +1,14 @@
+[
+    {
+        "cidade": "Cubatão",
+        "pm25": 6,
+        "pm10": 46,
+        "qualidade": "Intermediária"
+    },
+    {
+        "cidade": "Cerqueira Cesar - Avenida Paulista",
+        "pm25": 8,
+        "pm10": 20,
+        "qualidade": "Boa"
+    }
+]
